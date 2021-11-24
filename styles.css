@@ -1,0 +1,33 @@
+h1{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+button{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+.grid{
+    display: flex;
+    width: 960px;
+    height: 960px;
+    justify-content: center;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+.box {
+    flex-grow: 1;
+    background-color:white;
+    opacity: .5;
+    border: 1px solid #000000;
+  }
