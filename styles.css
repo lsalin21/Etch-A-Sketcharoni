@@ -12,8 +12,8 @@ button{
 
 .grid{
     display: flex;
-    width: 960px;
-    height: 960px;
+    width: 520px;
+    height: 520px;
     justify-content: center;
     margin: auto;
 }
